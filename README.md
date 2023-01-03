@@ -11,7 +11,7 @@ Stop settling for less. Make game servers a first class citizen on your platform
 
 ## Documentation
 
-* [Main Documentation](https://protylium.com)
+* [Main Documentation](https://protylium.com/)
 
 ## Sponsors
 
