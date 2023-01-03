@@ -15,7 +15,7 @@ Stop settling for less. Make game servers a first class citizen on your platform
 
 ## Sponsors
 
-I would like to extend my sincere thanks to the following sponsors for helping fund Pterodactyl's developement.
+I would like to extend my sincere thanks to the following sponsors for helping fund Protylium's developement.
 [Interested in becoming a sponsor?](https://github.com/sponsors/matthewpi)
 
 | Company                                                   | About                                                                                                                                                                                                                           |
