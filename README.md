@@ -42,7 +42,7 @@ Some of our core supported games include:
 In addition to our standard nest of supported games, our community is constantly pushing the limits of this software
 and there are plenty more games available provided by the community. Some of these games include:
 
-* Factorio
+* Factoriol
 * San Andreas: MP
 * Pocketmine MP
 * Squad
